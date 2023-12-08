@@ -664,7 +664,7 @@
     height: 15rem;
   }
   .right-4 .person{
-    width: 25%;
+    width: 20%;
     /* margin-top: 3rem; */
     /* margin-right: 10rem; */
     /* margin-left: 3rem; */
@@ -678,6 +678,7 @@
   margin-right: 10%;
   margin-left: 10%;
   border-radius: 20%;
+  /* height: 80%; */
  }
 
  .right-4 button{
